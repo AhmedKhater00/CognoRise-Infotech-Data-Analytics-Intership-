@@ -3,6 +3,10 @@
 ## Introduction
 This project investigates the impact of the Covid-19 lockdown on unemployment rates across various states in India. By analyzing historical data, the project aims to understand how the pandemic has affected employment opportunities and the labor market.
 
+## Data Overview
+- The dataset covers unemployment rates across all Indian states from January 2020 to November 2020.
+- Key features include unemployment rates, employment rates, and labor participation rates.
+
 ## Objectives
 - To analyze changes in unemployment rates before and after the Covid-19 lockdown.
 - To forecast future unemployment trends using statistical modeling.
@@ -57,10 +61,6 @@ The dataset includes information on:
 - **Data Preprocessing:** Handling missing values, date formatting
 
 ## Results of Data Analysis Process
-
-## Data Overview
-- The dataset covers unemployment rates across all Indian states from January 2020 to November 2020.
-- Key features include unemployment rates, employment rates, and labor participation rates.
 
 ## Descriptive Statistics
 - **Unemployment Rate:** The average unemployment rate increased from approximately 7% pre-Covid (January 2020) to over 23% post-Covid (April 2020).
