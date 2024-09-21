@@ -79,7 +79,7 @@ The dataset includes information on:
 
 ## Modeling Results
 ### Polynomial Regression Model
-- The model effectively captured trends in unemployment rates, with a mean squared error (MSE) of approximately X (replace with actual value).
+- The model effectively captured trends in unemployment rates, with a mean squared error (MSE) of approximately **134.13**.
 - Future forecasts indicated that unemployment rates may remain elevated in the coming months, suggesting a slow recovery.
 
 ## Conclusion
