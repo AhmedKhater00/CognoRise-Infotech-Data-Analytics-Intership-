@@ -86,7 +86,7 @@ The dataset includes information on:
 The project provides insights into the effects of the Covid-19 pandemic on unemployment in India, highlighting both immediate impacts and potential future trends. Through data analysis and visualization, the findings can inform policymakers and stakeholders about the ongoing challenges in the labor market.
 
 ## Contact
-For inquiries or collaboration opportunities, please reach out to:
+For inquiries or collaboration opportunities, please reach out with me:
 
 - **Name:** Ahmed Khater
 - **Email:** [khatermedo664@gmail.com]
